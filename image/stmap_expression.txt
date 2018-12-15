@@ -1,11 +1,12 @@
 set cut_paste_input [stack 0]
-version 10.0 v3
+version 10.5 v7
 push $cut_paste_input
 Expression {
  expr0 (x+.5)/width
  expr1 (y+.5)/height
+ expr3 1
  name Expression1
  selected true
- xpos -254
- ypos -176
+ xpos -13094
+ ypos -178
 }
